@@ -13,7 +13,6 @@ The database follows a normalized relational model. Key relationships include:
 * **One-to-Many:** Users -> Channels, Channels -> Videos.
 * **Many-to-Many:** Users <-> Channels (Subscriptions), Videos <-> Playlists.
 
-> *[View the full ER Diagram (PDF)](docs/Database_ER_Diagram.pdf)*
 
 ## 🛠️ Key Features & Implementation
 
