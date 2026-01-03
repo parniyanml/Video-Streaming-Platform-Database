@@ -98,3 +98,9 @@ This project adheres to strict database design principles:
 * **Weak Entities:** Correct handling of dependent entities (e.g., Timestamps depend on Videos).
 * **Data Integrity:** extensive use of Primary Keys, Foreign Keys, and Check Constraints (e.g., restricting Gender or Reaction types).
 * **Performance:** usage of computed columns and indexed views for high-read scenarios.
+
+## Credits
+
+**Project By:** Parniyan Malekzadeh
+**Supervisor:** Dr. Basiri
+**Institution:** Isfahan University of Technology
